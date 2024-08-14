@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.box{
+    border: 2px solid rgb(63,3,36);
+    background: rgb(63,3,36);
+    background: linear-gradient(90deg, rgba(63,3,36,1) 35%, rgba(63,3,36,1) 44%, rgba(31,3,63,1) 100%);
+    border-radius: 20px;
+    height: 620px;
+    z-index: -1;
+}
+.intern{
+    width: 1100px;
+    position: relative;
+    bottom: 600px;
+    left: 200px;
+
+}
+.Name1{
+    background: linear-gradient( #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.title2{
+    color: #eeff41;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    position: relative;
+    right: 100PX;
+}
+.sub2{
+    font-size: x-large;
+    background: linear-gradient( #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    word-spacing: 10px;
+    line-height: 73px;
+}
+.ant{
+    position: relative;
+    bottom: 1050px;
+    text-align: center;
+    word-spacing: 30px;
+}
